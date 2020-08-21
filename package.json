@@ -2,7 +2,8 @@
     "name": "node-server",
     "description": "a simple Node.js app using Express 4",
     "dependencies": {
-        "express": "*"
+        "express": "*",
+        "mongodb": "*"
     },
     "author": "Tosin Daniel",
     "license": "MIT"
