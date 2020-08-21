@@ -1,2 +1,2 @@
-# sit725-prac3
-Week 3 Prac
+# Connecting to a database
+Week 4 Prac
